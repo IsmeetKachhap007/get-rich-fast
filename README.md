@@ -1,8 +1,8 @@
 // TUTORIAL RESOURCES //
-Shadcn: https://ui.shadcn.com/
-Clerk: https://go.clerk.com/sloth-fs
-Convex: https://www.convex.dev/?utm_source=co...
-Clerk + Convex docs: https://clerk.com/docs/integrations/d...
+Shadcn: https://ui.shadcn.com
+Clerk: https://go.clerk.com
+Convex: https://www.convex.dev
+Clerk + Convex docs: https://clerk.com/docs/integrations
 Clerk billing docs: https://clerk.com/docs/billing/overview
 
 
